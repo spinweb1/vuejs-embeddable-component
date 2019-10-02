@@ -1,4 +1,4 @@
-# secondnature
+# Embeddable Vue JS Component
 
 ## Project setup
 ```
@@ -15,15 +15,11 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
+### Design choices
+I decided to use Vue.js to display GitHub API profile data.  I also
+chose Bootstrap 4 for my CSS framework because of its ease to use and 
+visual appeal.
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Ideas for future development
+Ideas I have for further features include: configurability of size
+and CSS.
